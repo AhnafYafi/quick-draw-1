@@ -1,0 +1,12 @@
+h3
+{
+font-size: 25px !important;
+}
+.btn-info:hover
+{
+ background-color:rgb(0, 119, 255);   
+}
+.background
+{
+    background:lightskyblue;
+}
